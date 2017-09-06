@@ -1,0 +1,6 @@
+[package]
+name = "dupharvest"
+version = "0.1.0"
+authors = ["kizkoh <mac-daisuki@live.jp>"]
+
+[dependencies]
